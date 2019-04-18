@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-3.6.0.tgz: tunneling socket could not be established, cause=getaddrinfo ENOTFOUND lnx237in.sjk.emb lnx237in.sjk.emb:9090
+  Error: https://registry.yarnpkg.com/dotenv/-/dotenv-6.2.0.tgz: tunneling socket could not be established, cause=getaddrinfo ENOTFOUND lnx237in.sjk.emb lnx237in.sjk.emb:9090
       at ClientRequest.onError (/usr/local/lib/node_modules/yarn/lib/cli.js:140883:17)
       at Object.onceWrapper (events.js:315:30)
       at emitOne (events.js:116:13)
